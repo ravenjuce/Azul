@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Wangyi Li
+    uid: u7323052
+  - name: Xuanchen Wang
+    uid: u7323912
+  - name: Zixin Feng
+    uid: u7233947
